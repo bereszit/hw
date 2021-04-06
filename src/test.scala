@@ -3,5 +3,5 @@ object test extends App{
 
   test.foreach(x => println(x))
 
-  println("new line Hej)
+  println("new line Hej")
 }
