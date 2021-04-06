@@ -1,3 +1,6 @@
 object test extends App{
-println("WwwWWW")
+var test = "okno"
+
+  test.foreach(x => println(x))
+
 }
